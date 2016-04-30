@@ -1,0 +1,32 @@
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\DLTuber.exe.config
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\DLTuber.exe
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\DLTuber.pdb
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\YoutubeExtractor.dll
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\bin\Debug\YoutubeExtractor.xml
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.Properties.Resources.resources
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.csproj.GenerateResource.Cache
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.exe
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.pdb
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.csprojResolveAssemblyReference.cache
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.MainForm.resources
+C:\Users\Eric Lau\Desktop\COMP3951\DLTuber\DLTuber\obj\Debug\DLTuber.Form2.resources
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\DLTuber.exe.config
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.exe
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.pdb
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\DLTuber.exe
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\DLTuber.pdb
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\System.Web.Http.dll
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\YoutubeExtractor.dll
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\System.Web.Http.xml
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\YoutubeExtractor.xml
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.csprojResolveAssemblyReference.cache
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.MainForm.resources
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.Properties.Resources.resources
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.csproj.GenerateResource.Cache
+C:\Users\manish\Desktop\COMP-3951-Project\DLTuber\DLTuber\obj\Debug\DLTuber.FormStatus.resources
